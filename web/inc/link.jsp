@@ -1,0 +1,23 @@
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/normalize.css">
+<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+<link  type="text/css" rel="stylesheet" href="css/style.css">
+<link type="text/css" rel="stylesheet" href="css/style1.css">
+<link type="text/css" rel="stylesheet" href="css/media.css">
+<link type="text/css" rel="stylesheet" href="css/css1.css" />
+
+<!-- referenciando al ico de la empresa-->
+<link rel="Shortcut Icon" type="image/x-icon" href="assets/icons/icono.png" />
+
+<script language="javaScript" type="text/javascript" src="js/bootstrap.min.js"></script>
+<script src="js/autohidingnavbar.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/carrito.js"></script>
+
+
+
+<script language="javaScript" type="text/javascript" src="js/jquery.min.js"></script>
+<script  src="js/jquery-1.4.2.min.js"></script>
+<script language="javaScript" type="text/javascript" src="js/Catalogo.js"></script>
